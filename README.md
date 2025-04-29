@@ -3,14 +3,14 @@
 🎓 **BSc in Computer Science from Malmö University**
 
 ## About Me  
-Im a 26 year old with a passion for new technology, devolopment and information secruity. Currently im working on new projects to expand my skills in full-stack development, system design and algorithms.
+Im a 26 year old with a passion for new technology, devolopment and information security. Currently im working on new projects to expand my skills in full-stack development, system design and algorithms.
 
 ## 🔧 Skills  
-- **Languages:** Python, Java, C++.
-- **Web Development:** Flask, React. 
+- **Languages:** Python, Java, C++, C.
+- **Web Development (learning):** Flask, React. 
 - **Databases:** SQL, PostgreSQL
-- **Tools & Frameworks:** Git, Docker, TensorFlow, Numpy, Scikit
-- **Other:** AI, Machine Learning, Data Structures, Algorithms, OOP, Agile Development.
+- **Tools & Frameworks:** Git, Docker, TensorFlow, Scikit, Pandas and more.
+- **Other:** AI, Machine Learning, Data Structures, Algorithms, OOP, Agile Development, TDD.
 
 ## 🚀 Projects  
 Here are some of my notable projects:  
