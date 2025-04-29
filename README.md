@@ -13,7 +13,7 @@ Im a 26 year old with a passion for new technology, devolopment and information 
 - **Other:** AI, Machine Learning, Data Structures, Algorithms, OOP, Agile Development, TDD.
 
 ## 🚀 Projects  
-Here are some of my notable projects:  
+Here are some of my GitHub projects:  
 - **[TwitterBotIdentification]([link](https://github.com/lucasvonhagen/TwitterBotIdentification))** – A small webapplication for identifying bots on Twitter, utilizes Flask and machine learning algorithms created from scratch. 
 
 ## 📫 Socials
