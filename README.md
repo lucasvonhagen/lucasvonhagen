@@ -4,7 +4,7 @@ Im a 26 year old with a passion for new technology, devolopment and information 
 **BSc in Computer Science from Malmö University**
 
 ## Skills  
-- **Languages:** Python, Java, C++, C.
+- **Languages:** Python, Java, C++, C, JavaScript (learning).
 - **Web Development (learning):** Flask, React. 
 - **Databases:** SQL, PostgreSQL
 - **Tools & Frameworks:** Git, Docker, TensorFlow, Scikit, Pandas and more.
