@@ -1,5 +1,6 @@
 ## About Me  
 Im a 26 year old with a passion for new technology, devolopment and information security. Currently im working on new projects to expand my skills in full-stack development, system design and algorithms.
+Currently working remote as a fullstack developer for Malmö Consulting Group AB.
  
 **BSc in Computer Science from Malmö University**
 
