@@ -17,5 +17,6 @@ Here are some of my new GitHub projects (working on uploading older projects asw
 - **[TwitterBotIdentification]([link](https://github.com/lucasvonhagen/TwitterBotIdentification))** – A small webapplication for identifying bots on Twitter, utilizes Flask and machine learning algorithms created from scratch. 
 
 ## Socials
-- **Email:** [lucas.d.hansson@hotmail.com](mailto:lucas.d.hansson@hotmail.com)  
+- **Personal email:** [lucas.d.hansson@hotmail.com](mailto:lucas.d.hansson@hotmail.com)
+- **Work email:** [lucas.hansson@malmoconsultinggroup.com](mailto:lucas.hansson@malmoconsultinggroup.com)    
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/lucas-hansson-b97027264/)
