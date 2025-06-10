@@ -7,8 +7,8 @@ Currently working remote as a fullstack developer for Malmö Consulting Group AB
 
 ## Skills  
 - **Languages:** Python, Java, C++, C, JavaScript (learning).
-- **Web Development (learning):** Flask, React. 
-- **Databases:** SQL, PostgreSQL
+- **Web Development (learning):** Flask, React, NodeJS. 
+- **Databases:** MySQL, PostgreSQL.
 - **Tools & Frameworks:** Git, Docker, TensorFlow, Scikit, Pandas and more.
 - **Other:** AI, Machine Learning, Data Structures, Algorithms, OOP, Agile Development, TDD.
 
