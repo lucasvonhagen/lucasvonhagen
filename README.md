@@ -14,7 +14,8 @@ Currently working remote as a fullstack developer for Malmö Consulting Group AB
 
 ## Projects  
 Here are some of my new GitHub projects (working on uploading older projects aswell):  
-- **[TwitterBotIdentification]([link](https://github.com/lucasvonhagen/TwitterBotIdentification))** – A small webapplication for identifying bots on Twitter, utilizes Flask and machine learning algorithms created from scratch. 
+- **[TwitterBotIdentification]([link](https://github.com/lucasvonhagen/TwitterBotIdentification))** – A small webapplication for identifying bots on Twitter, utilizes Flask and machine learning algorithms created from scratch.
+- **[Consultant remote]([link]consultantremote.com)** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe (work in progress).
 
 ## Socials
 - **Personal email:** [lucas.d.hansson@hotmail.com](mailto:lucas.d.hansson@hotmail.com)
