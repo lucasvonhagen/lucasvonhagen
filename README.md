@@ -18,7 +18,7 @@ Here are some of my GitHub projects (working on uploading older projects aswell)
 
 - **[TwitterBotIdentification](https://github.com/lucasvonhagen/TwitterBotIdentification)** - A small web application for identifying bots on Twitter, built with Flask and custom machine learning algorithms.
   
-- **[Consultant remote](https://consultantremote.com)** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe (work in progress).
+- **[Consultant remote](https://consultantremote.com)** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe (full website launching soon).
 
 
 ## Socials
