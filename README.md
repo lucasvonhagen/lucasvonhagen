@@ -14,8 +14,13 @@ Currently working remotely as a fullstack developer for Malmö Consulting Group 
 
 ## Projects  
 Here are some of my new GitHub projects (working on uploading older projects aswell): 
-- ** [Multi-Agent Decentralized Federated Learning]([link](https://github.com/lucasvonhagen/Multi-Agent-Decentralized-Federated-Learning)) - Created a working prototype of a Decentralized Federated Learning Multi-Agent system, able to perform decentralized machinelearning utilizing inter-agent communication and negotiation - [Full publication available here](https://mau.diva-portal.org/smash/record.jsf?pid=diva2%3A1901651&dswid=-2330)
-- **[TwitterBotIdentification]([link](https://github.com/lucasvonhagen/TwitterBotIdentification))** – A small webapplication for identifying bots on Twitter, utilizes Flask and machine learning algorithms created from scratch.
+- **[Multi-Agent Decentralized Federated Learning](https://github.com/lucasvonhagen/Multi-Agent-Decentralized-Federated-Learning)**  
+  A working prototype of a Decentralized Federated Learning Multi-Agent system, capable of decentralized machine learning using inter-agent communication and negotiation.  
+  **[Full publication available here](https://mau.diva-portal.org/smash/record.jsf?pid=diva2%3A1901651&dswid=-2330)**  
+
+- **[TwitterBotIdentification](https://github.com/lucasvonhagen/TwitterBotIdentification)**  
+  A small web application for identifying bots on Twitter, built with Flask and custom machine learning algorithms.
+  
 - **[Consultant remote](https://consultantremote.com)** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe (work in progress).
 
 
