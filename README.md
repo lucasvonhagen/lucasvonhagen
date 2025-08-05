@@ -13,7 +13,7 @@ Currently working remotely as a fullstack developer for Malmö Consulting Group 
 - **Other:** AI, Machine Learning, Data Structures, Algorithms, OOP, Agile Development, TDD.
 
 ## Projects  
-Here are some of my new GitHub projects (working on uploading older projects aswell): 
+Here are some of my GitHub projects (working on uploading older projects aswell): 
 - **[Multi-Agent Decentralized Federated Learning](https://github.com/lucasvonhagen/Multi-Agent-Decentralized-Federated-Learning)** - A working prototype of a Decentralized Federated Learning Multi-Agent system, capable of decentralized machine learning using inter-agent communication and negotiation - [Full publication available here](https://mau.diva-portal.org/smash/record.jsf?pid=diva2%3A1901651&dswid=-2330)
 
 - **[TwitterBotIdentification](https://github.com/lucasvonhagen/TwitterBotIdentification)** - A small web application for identifying bots on Twitter, built with Flask and custom machine learning algorithms.
