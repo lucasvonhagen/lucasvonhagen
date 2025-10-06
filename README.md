@@ -6,8 +6,8 @@ Currently working remotely as a fullstack developer for Malmö Consulting Group 
 **BSc in Computer Science from Malmö University**
 
 ## Skills  
-- **Languages:** Python, Java, C++, C, JavaScript and TypeScript (learning).
-- **Web Development (learning):** Flask, React, NodeJS, NextJS.
+- **Languages:** Python, Java, C++, C, JavaScript and TypeScript.
+- **Web Development (Fullstack):** Flask, React, NodeJS, NextJS, Supabase.
 - **Databases:** MySQL, PostgreSQL.
 - **Tools & Frameworks:** Git, Docker, TensorFlow, Scikit, Pandas and more.
 - **Other:** AI, Machine Learning, Data Structures, Algorithms, OOP, Agile Development, TDD.
@@ -18,7 +18,7 @@ Here are some of my GitHub projects (working on uploading older projects aswell)
 
 - **[TwitterBotIdentification](https://github.com/lucasvonhagen/TwitterBotIdentification)** - A small web application for identifying bots on Twitter, built with Flask and custom machine learning algorithms.
   
-- **[Consultant remote](https://consultantremote.com)** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe (full website launching soon).
+- **[Consultant remote](https://consultantremote.com)** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe.
 
 
 ## Socials
