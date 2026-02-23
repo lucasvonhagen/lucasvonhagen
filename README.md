@@ -2,6 +2,7 @@
 Im a 27 year old with a passion for new technology, devolopment and information security.
 
 Currently working as a System Software Engineer for ADB Safegate Sweden.
+
 I also run a company specializing in helping startups quickly build MVPs to validate market viability, along with consulting on technical projects and strategy.
  
 **BSc in Computer Science from Malmö University**
