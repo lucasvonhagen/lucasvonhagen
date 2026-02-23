@@ -1,7 +1,7 @@
 ## About Me  
 Im a 27 year old with a passion for new technology, devolopment and information security. Currently working on new projects to expand my skills in full-stack development, system design, machine learning and AI.
 
-Currently looking for work.
+Currently working as a System Software Engineer for ADB Safegate Sweden.
  
 **BSc in Computer Science from Malmö University**
 
@@ -18,10 +18,10 @@ Here are some of my GitHub projects (working on uploading older projects aswell)
 
 - **[TwitterBotIdentification](https://github.com/lucasvonhagen/TwitterBotIdentification)** - A small web application for identifying bots on Twitter, built with Flask and custom machine learning algorithms.
   
-- **[Consultant remote](https://consultantremote.com)** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe.
+- **[Consultant remote]** - Webapplication for Malmö Consulting Group AB, connects companies with top qualified resources and gives consultants access to exciting assignments across Europe.
 
 
 ## Socials
 - **Personal email:** [lucas.d.hansson@hotmail.com](mailto:lucas.d.hansson@hotmail.com)
-- **Work email:** [lucas.hansson@malmoconsultinggroup.com](mailto:lucas.hansson@malmoconsultinggroup.com)    
+- **Work email:** [lucas.hansson@adbsafegate.com](mailto:lucas.hansson@adbsafegate.com)    
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/lucas-hansson-b97027264/)
